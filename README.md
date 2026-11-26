@@ -39,10 +39,13 @@ This project is an educational prototype. Model predictions have limited demonst
 
 ## Developed By
 
-Ammarus Salam Ansari [UU252010175]
-Laman Rasheed [UU252010049]
-Ikra Shami [UU252010305]
-Insha Rahman [UU252010300]
+1) Ammarus Salam Ansari [UU252010175]
+
+2) Laman Rasheed [UU252010049]
+
+3) Ikra Shami [UU252010305]
+
+4) Insha Rahman [UU252010300]
 
 BCA – IBM Artificial Intelligence [Section D]
 
