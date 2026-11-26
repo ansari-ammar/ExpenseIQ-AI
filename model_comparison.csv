@@ -1,0 +1,6 @@
+Model,Validation_MAE
+Historical Mean,4203.369819185059
+Linear Regression,5590.934776944358
+Ridge Regression,5438.230751567905
+Random Forest,4913.700568568801
+Gradient Boosting,5564.608305806646
