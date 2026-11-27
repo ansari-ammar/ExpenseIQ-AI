@@ -1,5 +1,7 @@
 # ExpenseIQ AI
 
+https://expense-iq.streamlit.app/
+
 ## AI-Based Personal Expense Prediction System Using Machine Learning
 
 ExpenseIQ AI is an academic machine learning project designed to analyse historical financial transactions and generate experimental monthly expense predictions through an interactive Streamlit dashboard.
